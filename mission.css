@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Optional: Set background color */
+    border:1px solid black ;
+    margin: 10%;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.title h1 {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.title h2 {
+    color: #006EB6;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+}
+
+main p {
+    text-align: left;
+}
+
+.does-list {
+    text-align: left;
+    margin-left: 30px;
+}
+
+#logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 150px;
+}
+
+.dark {
+    background-color: #333;
+    color: white;
+  }
+
+  .dark h2 {
+    color: #A0D4ED;
+    }
