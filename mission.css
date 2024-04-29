@@ -53,8 +53,13 @@ main p {
 .dark {
     background-color: #333;
     color: white;
+    border:1px solid white ;
+    margin: 10%;
   }
 
   .dark h2 {
     color: #A0D4ED;
     }
+
+#themeSelector {width: 100px;
+height: 25px;}
