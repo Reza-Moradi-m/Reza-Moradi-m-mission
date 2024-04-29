@@ -19,6 +19,6 @@ function changeTheme() {
   }
 }
 
-// Add event listener to the themeSelector element to listen for change event
+//  Add event listener to the themeSelector element to listen for change event
 themeSelector.addEventListener("change", changeTheme);
 
